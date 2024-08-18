@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "title": "Estudar Vue Js", "completed": false },
+    { "id": 2, "title": "Estudar Laravel", "completed": false },
+    { "id": 3, "title": "Estudar Crud com Vue Js", "completed": false }
+  ]
+}
